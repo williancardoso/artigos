@@ -1,4 +1,4 @@
-# Por favor um trio! Gitlab, Ansible-AWX e Rundeck
+# Por favor um trio!
 
 ## Introdução
 Com todo o movimento de Devops, atrelado ao surgimento de ferramentas que permitem lidar com infraestrutura de TI (servidores, storage, rede, firewall) como código, tem impulsionado os SysAdmin a conhecerem novas tecnologias e ferramentas que até então era de conhecimento intrínsego dos desenvolvedores.
